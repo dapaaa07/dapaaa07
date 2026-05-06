@@ -1,5 +1,5 @@
 <h1 align="center">Hii, welcome to my profile💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
-<h3 align="center">Junior programmer | Subang State Politeknik</h3>
+<h3 align="center">Junior Programmer | Subang State Politeknik</h3>
 
 <p align="center">
   <a href="mailto:daffariyadhulijlal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -65,8 +65,6 @@ Cuma mahasiswa kura kura dari <strong>Politeknik Negeri Subang</strong>. Semua r
 
 <div align="center">
   <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
   </a>
 </div>
 
